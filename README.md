@@ -19,12 +19,9 @@ Datos  Reveladores:
 💰 Balance final:          $155.37
 📈 Ganancia/Pérdida:       $+55.37
 📊 ROI:                    +55.37%
-----------------------------------------------------------------------
-🔼 Predicciones Subida:    0 (0.0%)
-   └─ Aciertos:            0
-🔽 Predicciones Bajada:    30 (100.0%)
-   └─ Aciertos:            25 (83.3% de bajadas)
+
 ----------------------------------------------------------------------
 💵 Ganancia promedio:      $2.91
 💸 Pérdida promedio:       $-3.47
 🎲 Confianza promedio:     51.92%
+<img width="856" height="424" alt="image" src="https://github.com/user-attachments/assets/cc79f97e-33e0-419f-83be-1e32f2a00c4d" />
